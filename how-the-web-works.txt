@@ -1,0 +1,31 @@
+## **Part One: Solidify Terminology**
+
+In your own terms, define the following terms:
+
+- What is HTTP?
+http is a protocol that defines conventions for how requests are sent
+
+- What is a URL?
+a url is an address to a server/site that you can make requests to
+
+- What is DNS?
+the domain name system is a nickname for an ip to a server
+
+- What is a query string?
+a query string is basically a get request to find information on the server
+
+- What are two HTTP verbs and how are they different?
+get: requests without side effects
+post: requests with side effects
+
+- What is an HTTP request?
+an http request is sending something to the server either asking for information or trying to change something
+
+- What is an HTTP response?
+an http response shows various information about the request made 
+
+- What is an HTTP header? Give a couple examples of request and response headers you have seen.
+a header includes various information such as content type, language, cookies, etc
+
+- What are the processes that happen when you type “http://somesite.com/some/page.html” into a browser?
+the browser attempts to connect to the server with the domain name somesite and goes to some/page.html
